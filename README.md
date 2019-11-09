@@ -21,11 +21,9 @@ Using the SF summer 2014 dataset, I decided to focus on the top 10 reported crim
 | SUSPICIOUS OCC |   1300  |
 | VEHICLE THEFT  |   1966  |
 | WARRANTS       |   1782  |
-|---|---|
 
 http://rpubs.com/isrraelmendoza92/548160
-
 \
-I suspected that these crime incidents would also lean towards occurence on the weekend. I plotted these incidents grouped by DayOfWeek. 
+I suspected that these crime incidents would also lean towards occurence on the weekend. I plotted these incidents grouped by DayOfWeek. The guess proved to be correct:
 \
 http://rpubs.com/isrraelmendoza92/548162
