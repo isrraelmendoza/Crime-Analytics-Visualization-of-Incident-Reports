@@ -33,3 +33,9 @@ http://rpubs.com/isrraelmendoza92/548162
 Using an improved frequency subset approach, I improved this analysis:
 \
 http://rpubs.com/isrraelmendoza92/548191
+\
+Then we explored what resolution was being taken against the crime incidents:
+\
+http://rpubs.com/isrraelmendoza92/548213
+\
+\
