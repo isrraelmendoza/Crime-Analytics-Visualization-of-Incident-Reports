@@ -24,6 +24,8 @@ Using the SF summer 2014 dataset, I decided to focus on the top 10 reported crim
 
 http://rpubs.com/isrraelmendoza92/548160
 \
+
 I suspected that these crime incidents would also lean towards occurence on the weekend. I plotted these incidents grouped by DayOfWeek. The guess proved to be correct:
 \
+
 http://rpubs.com/isrraelmendoza92/548162
