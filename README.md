@@ -29,3 +29,7 @@ I suspected that these crime incidents would also lean towards occurence on the 
 \
 
 http://rpubs.com/isrraelmendoza92/548162
+\
+Using an improved frequency subset approach, I improved this analysis:
+\
+http://rpubs.com/isrraelmendoza92/548191
