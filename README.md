@@ -25,7 +25,7 @@ Using the SF summer 2014 dataset, I decided to focus on the top 10 reported crim
 http://rpubs.com/isrraelmendoza92/548160
 
 
-<h2>Q1</h2>
+<h2>Visualization 1</h2>
 
 I suspected that these crime incidents would also lean towards occurence on the weekend. I plotted these incidents grouped by DayOfWeek. The guess proved to be correct:
 
@@ -40,7 +40,7 @@ Then we explored what resolution was being taken against the crime incidents:
 
 http://rpubs.com/isrraelmendoza92/548213
 
-<h2>Q2</h2>
+<h2>Visualization 2</h2>
 
 Another key question was when were the incidents occuring?
 The key variables that can help answering this question are DayOfWeek, Date and Time.
