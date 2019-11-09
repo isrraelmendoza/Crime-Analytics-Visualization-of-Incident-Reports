@@ -21,3 +21,11 @@ Using the SF summer 2014 dataset, I decided to focus on the top 10 reported crim
 | SUSPICIOUS OCC |   1300  |
 | VEHICLE THEFT  |   1966  |
 | WARRANTS       |   1782  |
+\
+http://rpubs.com/isrraelmendoza92/548160
+\
+I then plotted the frequency of each of these incidents, grouped by their summarised offence description (Summarized.Offense.Description), by the hour of the day at which the incident occurred (Occurred.Date.or.Date.Range.Start). The points in the visualisation represent actual values, the plot lines for each Summarized Offence Description has been smoothed to emphasise the trend / fit over 24 hours.
+\
+I suspected that these crime incidents would also lean towards occurence on the weekend. I plotted these incidents grouped by DayOfWeek. 
+\
+http://rpubs.com/isrraelmendoza92/548162
